@@ -20,4 +20,4 @@ const connectDB = async () => {
 };
 
 // Export the connectDB function so it can be used in other parts of the app
-module.exports = connectDB();
+module.exports = connectDB;
